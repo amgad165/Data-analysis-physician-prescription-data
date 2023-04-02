@@ -1,0 +1,226 @@
+Drug Name,Brand Name,,,,Generic Name,Total Days,,,,,,
+Eplerenone,Inspra,MRA,,,Atorvastatin Calcium,624158,,,,Diltiazem Hcl,59525,Diltiazem Hcl
+Carvedilol,Coreg,Beta Blocker,,,Metoprolol succinate,601448,,,,Atorvastatin Calcium,624158,Atorvastatin Calcium
+Dapagliflozin Propanediol,Farxiga,SGLT 2 Inhibitor,,,Carvedilol,457319,,,,Levothyroxine Sodium,19107,Levothyroxine Sodium
+Amiloride,Midamor,Diruetic,,,Furosemide,362210,,,,Metoprolol Succinate,601448,Metoprolol succinate
+Lisinopril,Prinivil,ACE Inhibitor,,,Lisinopril,328681,,,,Clopidogrel Bisulfate,209193,Clopidogrel Bisulfate
+Spironolactone,Aldactone,MRA,,,Lisinopril,328681,,,,Allopurinol,14820,Allopurinol
+Nitroglycerin,,Vasodilator,,,Amlodipine Besylate,306273,,,,Digoxin,56805,Digoxin
+Empagliflozin,Jardiance,SGLT 2 Inhibitor,,x,Apixaban,279879,,,,Ranolazine,33098,Ranolazine
+,,,,,Losartan Potassium,250239,,,,Triamterene/Hydrochlorothiazid,5120,Triamterene/Hydrochlorothiazid
+,,,,,Rosuvastatin Calcium,243007,,,,Macitentan,6030,#N/A
+Hydralazine Hcl,BiDil,Vasodilator,,,Spironolactone,241043,,,,Lenalidomide,10909,Lenalidomide
+Nebivolol Hcl,Bystolic,Beta Blocker,,,,0,,,,Furosemide,362210,Furosemide
+,,,,,Potassium Chloride,222025,,,,Riociguat,5982,#N/A
+Hydralazine Hcl,Apresoline,Vasodilator,,,Clopidogrel Bisulfate,209193,,,,Tacrolimus,12243,Tacrolimus
+,,,,,Metoprolol Tartrate,177468,,,,Sulfamethoxazole/Trimethoprim,5622,#N/A
+Torsemide,Demadex,Diuretic,,,Isosorbide Mononitrate,176078,,,,Rosuvastatin Calcium,243007,Rosuvastatin Calcium
+Isosorbide Mononitrate,Isordil,Vasodilator,,,Isosorbide Mononitrate,176078,,,,Ibrutinib,9826,#N/A
+,,,,,Isosorbide Mononitrate,176078,,,,Tafamidis,6810,#N/A
+Calsartan,Diovan,ARB,,,Sacubitril/Valsartan,156103,,,,Carvedilol,457319,Carvedilol
+,,,,,Warfarin Sodium,141637,,,,Enalapril Maleate,4230,Enalapril Maleate
+Chlorothiazide,Diuril,Diuretic,,,Torsemide,135949,,,,Amlodipine Besylate,306273,Amlodipine Besylate
+,,,,x,Rivaroxaban,116602,,,,Doxazosin Mesylate,5521,#N/A
+Trandolapril,Mavik,ACE Inhibitor,,,Amiodarone Hcl,114863,,,,Lisinopril,328681,Lisinopril
+,,,,,Ezetimibe,112790,,,,Ambrisentan,5400,#N/A
+Digoxin,Digox,Digoxin,Used in HF,,Bumetanide,97231,,,,Apixaban,279879,Apixaban
+Ivabradine Hcl,Corlanor,I(f) Channel Inhibitor,,,Hydralazine Hcl,92184,,,,Potassium Chloride,222025,Potassium Chloride
+Spironolactone,Aldactone,Diruetic,,,Hydrochlorothiazide,89323,,,,Losartan Potassium,250239,Losartan Potassium
+,,,,,Simvastatin,67743,,,,Fenofibrate Nanocrystallized,5214,#N/A
+,,,,,Pravastatin Sodium,64445,,,,Omega-3 Acid Ethyl Esters,5096,#N/A
+,,,,,Diltiazem Hcl,59525,,,,Clonidine Hcl,4711,#N/A
+,,,,,Atenolol,59508,,,,Irbesartan,4650,#N/A
+Metoprolol succinate,Toprolol XL,Beta Blocker,,,Digoxin,56805,,,,Metoprolol Tartrate,177468,Metoprolol Tartrate
+,,,,,Pantoprazole Sodium,42688,,,,Pomalidomide,4623,#N/A
+,,,,,Anastrozole,39368,,,,Verapamil Hcl,4379,#N/A
+,,,,,Ranolazine,33098,,,,Exemestane,4140,#N/A
+,,,,,Sotalol Hcl,29336,,,,Propranolol Hcl,4134,#N/A
+,,,,,Chlorthalidone,28442,,,,Fosinopril Sodium,3060,Fosinopril Sodium
+,,,,,Flecainide Acetate,24859,,,,Midodrine Hcl,3551,#N/A
+,,,,,Acyclovir,24763,,,,Alendronate Sodium,3332,#N/A
+Bumetanide,Bumex,Diuretic,,,Metolazone,23676,,,,Isosorbide Mononitrate,176078,Isosorbide Mononitrate
+,,,,,Valsartan,23285,,,,Sirolimus,3180,#N/A
+Furosemide,Lasix,Diuretic,,,Empagliflozin,21524,,,,Spironolactone,241043,Spironolactone
+Metolazone,Zaroxolyn,Diuretic,,,Nitroglycerin,20622,,,,Torsemide,135949,Torsemide
+,,,,,Evolocumab,19520,,,,Tafamidis Meglumine,3060,#N/A
+,,,,,Levothyroxine Sodium,19107,,,,Sertraline Hcl,3055,#N/A
+,,,,,Isosorbide Dinitrate,18564,,,,Mirtazapine,3038,#N/A
+Lisinopril/Hydrochlorothiazide,HydroDiuril,Diuretic,,,Eplerenone,17497,,,,Sacubitril/Valsartan,156103,Sacubitril/Valsartan
+Sacubitril/Valsartan,Entresto,ARNI,Used in severe heart failure,,Bisoprolol Fumarate,16654,,,,Pioglitazone Hcl,13470,Pioglitazone Hcl
+,,,,,Dronedarone Hcl,16604,,,,Quinapril Hcl,2490,Quinapril Hcl
+,,,,,Prednisone,16430,,,,Prasugrel Hcl,3000,#N/A
+,,,,,Hydroxyurea,16323,,,,Benazepril Hcl,2820,#N/A
+,,,,,Allopurinol,14820,,,,Imatinib Mesylate,2790,#N/A
+Quinapril Hcl,Accupril,ACE Inhibitor,,,Ramipril,13808,,,,Pravastatin Sodium,64445,Pravastatin Sodium
+,,,,,Pioglitazone Hcl,13470,,,,Selexipag,2748,#N/A
+Spironolactone,Casospir,Diruetic,,,Lisinopril/Hydrochlorothiazide,13238,,,,Simvastatin,67743,Simvastatin
+,,,,,Ticagrelor,12828,,,,Trazodone Hcl,2724,#N/A
+,,,,,Tacrolimus,12243,,,,Tamoxifen Citrate,2640,#N/A
+,,,,,Letrozole,11534,,,,Valacyclovir Hcl,2490,#N/A
+,,,,,Omeprazole,11364,,,,Raloxifene Hcl,2310,#N/A
+,,,,,Sildenafil Citrate,11322,,,,Tamsulosin Hcl,2283,#N/A
+,,,,x,Lenalidomide,10909,,,,Nilotinib Hcl,2162,#N/A
+,,,,,Metformin Hcl,10615,,,,Olmesartan Medoxomil,2157,#N/A
+Candesartan,Atacand,ARB,,,Losartan/Hydrochlorothiazide,9060,,,,Warfarin Sodium,141637,Warfarin Sodium
+Carvedilol,Coreg CR,Beta Blocker,,,Nebivolol Hcl,6531,,,,Empagliflozin,21524,Empagliflozin
+Indapamide,Lozol,Diuretic,,,Dapagliflozin Propanediol,5319,,,,Metformin Hcl,10615,Metformin Hcl
+Digoxin,Cardoxin,Digoxin,Used in HF,,Triamterene/Hydrochlorothiazid,5120,,,,Rivaroxaban,116602,Rivaroxaban
+Enalapril Maleate,Vasotec,ACE Inhibitor,,,Enalapril Maleate,4230,,,,Hydralazine Hcl,92184,Hydralazine Hcl
+Hydrochlorothiazide,Esidrix,Diuretic,,,Ivabradine Hcl,4139,,,,Amiodarone Hcl,114863,Amiodarone Hcl
+Fosinopril Sodium,Monopril,ACE Inhibitor,,,Fosinopril Sodium,3060,,,,Evolocumab,19520,Evolocumab
+Perindopril,Aceon,ACE Inhibitor,,,Quinapril Hcl,2490,,,,Hydrochlorothiazide,89323,Hydrochlorothiazide
+Ramipril,Altace,ACE Inhibitor,,,Trandolapril,0,,,,Bumetanide,97231,Bumetanide
+Triamterene/Hydrochlorothiazid,Dyrenium,Diruetic,,,Indapamide,0,,,,Atenolol,59508,Atenolol
+Digoxin,Digitek,Digoxin,Used in HF,,Amiloride,0,,,,Pantoprazole Sodium,42688,Pantoprazole Sodium
+Amiodarone Hcl,,Antiarrythmics,,,Candesartan,0,,,,Chlorthalidone,28442,Chlorthalidone
+Captopril,Capoten,ACE Inhibitor,,,Captopril,0,,,,Acyclovir,24763,Acyclovir
+Telmisartan,Micardis,ARB,,,Calsartan,0,,,,Ramipril,13808,Ramipril
+Losartan/Hydrochlorothiazide,Cozaar,ARB,,,Telmisartan,0,,,,Mycophenolate Mofetil,8935,#N/A
+Digoxin,Lanoxin,Digoxin,Used in HF,,Chlorothiazide,0,,,,Alirocumab,6804,#N/A
+Lisinopril,Zestril,ACE Inhibitor,,,Perindopril,0,,,,Famotidine,6169,#N/A
+Bisoprolol Fumarate,Zebeta,Beta Blocker,,,,,,,,Ezetimibe,112790,Ezetimibe
+,,,,,,,,,,Dronedarone Hcl,16604,Dronedarone Hcl
+,,,,,,,,,,Ticagrelor,12828,Ticagrelor
+,,,,,,,,,,Sildenafil Citrate,11322,Sildenafil Citrate
+,,,,,,,,,,Dapagliflozin Propanediol,5319,Dapagliflozin Propanediol
+,,,,,,,,,,Isosorbide Dinitrate,18564,Isosorbide Dinitrate
+,,,,,,,,,,Ivabradine Hcl,4139,Ivabradine Hcl
+,,,,,,,,,,Flecainide Acetate,24859,Flecainide Acetate
+,,,,,,,,,,Anastrozole,39368,Anastrozole
+,,,,,,,,,,Eplerenone,17497,Eplerenone
+,,,,,,,,,,Valsartan,23285,Valsartan
+,,,,,,,,,,Nebivolol Hcl,6531,Nebivolol Hcl
+,,,,,,,,,,Metolazone,23676,Metolazone
+,,,,,,,,,,Sotalol Hcl,29336,Sotalol Hcl
+,,,,,,,,,,Nitroglycerin,20622,Nitroglycerin
+,,,,,,,,,,Bisoprolol Fumarate,16654,Bisoprolol Fumarate
+,,,,,,,,,,Hydroxyurea,16323,Hydroxyurea
+,,,,,,,,,,Prednisone,16430,Prednisone
+,,,,,,,,,,Losartan/Hydrochlorothiazide,9060,Losartan/Hydrochlorothiazide
+,,,,,,,,,,Lisinopril/Hydrochlorothiazide,13238,Lisinopril/Hydrochlorothiazide
+,,,,,,,,,,Letrozole,11534,Letrozole
+,,,,,,,,,,Omeprazole,11364,Omeprazole
+,,,,,,,,,,Gabapentin,9876,#N/A
+,,,,,,,,,,Icosapent Ethyl,8745,#N/A
+,,,,,,,,,,Dabigatran Etexilate Mesylate,8490,#N/A
+,,,,,,,,,,Nifedipine,7773,#N/A
+,,,,,,,,,,Dexamethasone,7220,#N/A
+,,,,,,,,,,Tadalafil,6087,#N/A
+,,,,,,,,,,Oxycodone Hcl,2062,#N/A
+,,,,,,,,,,Ondansetron Hcl,2004,#N/A
+,,,,,,,,,,Valsartan/Hydrochlorothiazide,1980,#N/A
+,,,,,,,,,,Cilostazol,1950,#N/A
+,,,,,,,,,,Ruxolitinib Phosphate,1896,#N/A
+,,,,,,,,,,Venetoclax,1893,#N/A
+,,,,,,,,,,Duloxetine Hcl,1883,#N/A
+,,,,,,,,,,Fluticasone Propionate,1830,#N/A
+,,,,,,,,,,Pitavastatin Calcium,1740,#N/A
+,,,,,,,,,,Escitalopram Oxalate,1680,#N/A
+,,,,,,,,,,Abiraterone Acetate,1680,#N/A
+,,,,,,,,,,Epoetin Alfa,1666,#N/A
+,,,,,,,,,,Isosorbide Dinit/Hydralazine,1629,#N/A
+,,,,,,,,,,Enzalutamide,1590,#N/A
+,,,,,,,,,,Fludrocortisone Acetate,1502,#N/A
+,,,,,,,,,,"Cyclosporine, Modified",1413,#N/A
+,,,,,,,,,,Cyclosporine,1333,#N/A
+,,,,,,,,,,Enoxaparin Sodium,1310,#N/A
+,,,,,,,,,,Fluconazole,1308,#N/A
+,,,,,,,,,,Anagrelide Hcl,1290,#N/A
+,,,,,,,,,,Fenofibrate,1200,#N/A
+,,,,,,,,,,Dapsone,1170,#N/A
+,,,,,,,,,,Osimertinib Mesylate,1170,#N/A
+,,,,,,,,,,Eltrombopag Olamine,1170,#N/A
+,,,,,,,,,,Azathioprine,1080,#N/A
+,,,,,,,,,,Calcitriol,1034,#N/A
+,,,,,,,,,,Clonidine,1022,#N/A
+,,,,,,,,,,Montelukast Sodium,996,#N/A
+,,,,,,,,,,Doxycycline Hyclate,990,#N/A
+,,,,,,,,,,Bisoprolol/Hydrochlorothiazide,990,#N/A
+,,,,,,,,,,Candesartan Cilexetil,990,#N/A
+,,,,,,,,,,Famciclovir,977,#N/A
+,,,,,,,,,,Dofetilide,960,#N/A
+,,,,,,,,,,Propafenone Hcl,960,#N/A
+,,,,,,,,,,Glipizide,960,#N/A
+,,,,,,,,,,Labetalol Hcl,870,#N/A
+,,,,,,,,,,Terazosin Hcl,836,#N/A
+,,,,,,,,,,Alprazolam,828,#N/A
+,,,,,,,,,,Lovastatin,810,#N/A
+,,,,,,,,,,Fluoxetine Hcl,784,#N/A
+,,,,,,,,,,Ixazomib Citrate,756,#N/A
+,,,,,,,,,,Abemaciclib,756,#N/A
+,,,,,,,,,,Danazol,690,#N/A
+,,,,,,,,,,Ursodiol,690,#N/A
+,,,,,,,,,,"Fenofibrate,micronized",682,#N/A
+,,,,,,,,,,Bicalutamide,673,#N/A
+,,,,,,,,,,Divalproex Sodium,654,#N/A
+,,,,,,,,,,Cyclobenzaprine Hcl,626,#N/A
+,,,,,,,,,,Fentanyl,600,#N/A
+,,,,,,,,,,Oxycodone Hcl/Acetaminophen,589,#N/A
+,,,,,,,,,,Mexiletine Hcl,585,#N/A
+,,,,,,,,,,Deferasirox,570,#N/A
+,,,,,,,,,,Zolpidem Tartrate,568,#N/A
+,,,,,,,,,,Hydromorphone Hcl,543,#N/A
+,,,,,,,,,,Prochlorperazine Maleate,534,#N/A
+,,,,,,,,,,Megestrol Acetate,529,#N/A
+,,,,,,,,,,Isavuconazonium Sulfate,512,#N/A
+,,,,,,,,,,Levofloxacin,496,#N/A
+,,,,,,,,,,Diphenoxylate Hcl/Atropine,493,#N/A
+,,,,,,,,,,Morphine Sulfate,480,#N/A
+,,,,,,,,,,Exenatide Microspheres,458,#N/A
+,,,,,,,,,,Cefuroxime Axetil,450,#N/A
+,,,,,,,,,,Idelalisib,450,#N/A
+,,,,,,,,,,Apalutamide,450,#N/A
+,,,,,,,,,,Ondansetron,447,#N/A
+,,,,,,,,,,Dasatinib,435,#N/A
+,,,,,,,,,,Trametinib Dimethyl Sulfoxide,420,#N/A
+,,,,,,,,,,Dabrafenib Mesylate,420,#N/A
+,,,,,,,,,,Ethacrynic Acid,399,#N/A
+,,,,,,,,,,Dulaglutide,392,#N/A
+,,,,,,,,,,Valganciclovir Hcl,390,#N/A
+,,,,,,,,,,Felodipine,390,#N/A
+,,,,,,,,,,Ciprofloxacin Hcl,368,#N/A
+,,,,,,,,,,Acalabrutinib,364,#N/A
+,,,,,,,,,,Bosentan,360,#N/A
+,,,,,,,,,,Donepezil Hcl,360,#N/A
+,,,,,,,,,,Ponatinib Hcl,360,#N/A
+,,,,,,,,,,Amiloride Hcl,360,#N/A
+,,,,,,,,,,Albuterol Sulfate,358,#N/A
+,,,,,,,,,,Mupirocin,345,#N/A
+,,,,,,,,,,Niacin,330,#N/A
+,,,,,,,,,,Lithium Carbonate,330,#N/A
+,,,,,,,,,,Memantine Hcl,330,#N/A
+,,,,,,,,,,Treprostinil Diolamine,330,#N/A
+,,,,,,,,,,Patiromer Calcium Sorbitex,330,#N/A
+,,,,,,,,,,Erlotinib Hcl,330,#N/A
+,,,,,,,,,,Dronabinol,330,#N/A
+,,,,,,,,,,Lapatinib Ditosylate,330,#N/A
+,,,,,,,,,,Lorazepam,326,#N/A
+,,,,,,,,,,Quetiapine Fumarate,322,#N/A
+,,,,,,,,,,Varenicline Tartrate,310,#N/A
+,,,,,,,,,,Loperamide Hcl,309,#N/A
+,,,,,,,,,,"Octreotide Acetate,mi-Spheres",308,#N/A
+,,,,,,,,,,"Insulin Glargine,hum.Rec.Anlog",307,#N/A
+,,,,,,,,,,Timolol Maleate,300,#N/A
+,,,,,,,,,,Treprostinil Sodium,294,#N/A
+,,,,,,,,,,Carbidopa/Levodopa,289,#N/A
+,,,,,,,,,,Everolimus,287,#N/A
+,,,,,,,,,,Amoxicillin,265,#N/A
+,,,,,,,,,,Amoxicillin/Potassium Clav,262,#N/A
+,,,,,,,,,,Pregabalin,250,#N/A
+,,,,,,,,,,Naproxen,245,#N/A
+,,,,,,,,,,Nystatin,242,#N/A
+,,,,,,,,,,Meclizine Hcl,240,#N/A
+,,,,,,,,,,Hydrocodone/Acetaminophen,234,#N/A
+,,,,,,,,,,Hydroxyzine Hcl,210,#N/A
+,,,,,,,,,,Sucralfate,196,#N/A
+,,,,,,,,,,Oseltamivir Phosphate,153,#N/A
+,,,,,,,,,,Cephalexin,147,#N/A
+,,,,,,,,,,Methotrexate Sodium,140,#N/A
+,,,,,,,,,,Tramadol Hcl,132,#N/A
+,,,,,,,,,,Dobutamine Hcl,126,#N/A
+,,,,,,,,,,Diclofenac Sodium,117,#N/A
+,,,,,,,,,,Tizanidine Hcl,90,#N/A
+,,,,,,,,,,Azithromycin,85,#N/A
+,,,,,,,,,,Methylprednisolone,57,#N/A
+,,,,,,,,,,Sumatriptan Succinate,26,#N/A
+,,,,,,,,,,Clindamycin Hcl,14,#N/A

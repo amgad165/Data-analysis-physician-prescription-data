@@ -1,0 +1,39 @@
+"npi": The National Provider Identifier (NPI) number assigned to the prescriber by the Centers for Medicare & Medicaid Services (CMS).
+
+"nppes_provider_last_org_name": The last name of the provider or organization listed on the NPI.
+
+"nppes_provider_first_name": The first name of the provider listed on the NPI.
+
+"nppes_provider_city": The city where the provider is located.
+
+"nppes_provider_state": The state where the provider is located.
+
+"specialty_description": The provider's specialty as listed in the NPI.
+
+"description_flag": A flag that indicates whether the drug is a brand name or a generic drug.
+
+"drug_name": The name of the drug prescribed.
+
+"generic_name": The generic name of the drug.
+
+"bene_count": The number of beneficiaries who received the drug from the prescriber.
+
+"total_claim_count": The total number of prescriptions for the drug.
+
+"total_30_day_fill_count": The total number of units of the drug prescribed, in 30-day increments.
+
+"total_day_supply": The total number of days for which the drug was prescribed.
+
+"total_drug_cost": The total cost of the drug prescribed.
+
+"bene_count_ge65": The number of beneficiaries over the age of 65 who received the drug from the prescriber.
+
+"bene_count_ge65_suppress_flag": A flag that indicates whether the data for the "bene_count_ge65" column has been suppressed.
+
+"total_claim_count_ge65": The total number of prescriptions for the drug prescribed to beneficiaries over the age of 65.
+
+"total_30_day_fill_count_ge65": The total number of units of the drug prescribed to beneficiaries over the age of 65, in 30-day increments.
+
+"total_day_supply_ge65": The total number of days for which the drug was prescribed to beneficiaries over the age of 65.
+
+"total_drug_cost_ge65": The total cost of the drug prescribed to beneficiaries over the age of 65.

@@ -1,0 +1,1 @@
+jupyter nbconvert Jupyter\ code.ipynb --to slides --no-input 
